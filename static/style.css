@@ -1,0 +1,31 @@
+/* styles.css */
+/* styles.css */
+
+body
+{
+    background-image: url(https://images.unsplash.com/photo-1514810771018-276192729582?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80);
+    background-size: 100% 120vh;
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card {
+    margin-left: 50px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Add more CSS rules as needed */
